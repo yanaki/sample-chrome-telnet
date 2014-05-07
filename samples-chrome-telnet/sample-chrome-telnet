@@ -4,7 +4,7 @@
     <ProjectGuid>d4d1df0d-1a89-4290-a8c6-f0f176308f2d</ProjectGuid>
     <ProjectTypeGuids>{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}</ProjectTypeGuids>
     <AppIdentifier>com.telerik.ampleschrometelnet</AppIdentifier>
-    <ProjectName>amples-chrome-telnet</ProjectName>
+    <ProjectName>sample-chrome-telnet</ProjectName>
     <IsRunnable>true</IsRunnable>
     <FrameworkVersion>3.2.0</FrameworkVersion>
     <AndroidPermissions>android.permission.ACCESS_NETWORK_STATE;android.permission.WRITE_EXTERNAL_STORAGE</AndroidPermissions>
@@ -16,7 +16,7 @@
     <BundleVersion>1.0</BundleVersion>
     <DisplayName />
     <Author />
-    <Description>sample-chrome-base</Description>
+    <Description>sample-chrome-telnet</Description>
     <iOSDeviceFamily>1;2</iOSDeviceFamily>
     <iOSBackgroundMode />
     <AndroidVersionCode>1</AndroidVersionCode>
