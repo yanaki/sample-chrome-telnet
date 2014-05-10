@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>d4d1df0d-1a89-4290-a8c6-f0f176308f2d</ProjectGuid>
+    <ProjectTypeGuids>{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}</ProjectTypeGuids>
+    <AppIdentifier>com.telerik.ampleschrometelnet</AppIdentifier>
+    <ProjectName>sample-chrome-telnet</ProjectName>
+    <IsRunnable>true</IsRunnable>
+    <FrameworkVersion>3.2.0</FrameworkVersion>
+    <AndroidPermissions>android.permission.ACCESS_NETWORK_STATE;android.permission.WRITE_EXTERNAL_STORAGE</AndroidPermissions>
+    <CorePlugins>org.apache.cordova.file;org.apache.cordova.inappbrowser;org.apache.cordova.keyboard;org.apache.cordova.network-information;org.apache.cordova.statusbar</CorePlugins>
+    <DeviceOrientations>Portrait;Landscape</DeviceOrientations>
+    <iOSStatusBarStyle>Default</iOSStatusBarStyle>
+    <AndroidHardwareAcceleration>false</AndroidHardwareAcceleration>
+    <WP8SupportedResolutions>ID_RESOLUTION_WVGA;ID_RESOLUTION_WXGA;ID_RESOLUTION_HD720P</WP8SupportedResolutions>
+    <BundleVersion>1.0</BundleVersion>
+    <DisplayName />
+    <Author />
+    <Description>sample-chrome-telnet</Description>
+    <iOSDeviceFamily>1;2</iOSDeviceFamily>
+    <iOSBackgroundMode />
+    <AndroidVersionCode>1</AndroidVersionCode>
+    <WP8Requirements />
+    <WP8Capabilities />
+    <WP8TileTitle />
+    <WP8ProductID>{d4d1df0d-1a89-4290-a8c6-f0f176308f2d}</WP8ProductID>
+    <WP8PublisherID>{30e374ce-2b89-4eca-afcb-679fff146b73}</WP8PublisherID>
+    <WP8Publisher />
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Telerik\ICE\Tools\Mobile\MobileTools.targets" />
+</Project>
