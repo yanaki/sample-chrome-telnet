@@ -1,7 +1,7 @@
 samples-chrome-telnet
 ======================
 
-This sample shows how to develop a to-do hybrid mobile app using Google Chrome APIs in Telerik AppBuilder. You can clone this sample in Telerik AppBuilder, explore and modify the code, and build and run it on Android or iOS devices.
+This sample shows how to develop a telnet hybrid mobile app using Google Chrome APIs in Telerik AppBuilder. You can clone this sample in Telerik AppBuilder, explore and modify the code, and build and run it on Android or iOS devices.
 
 This sample demonstrates how to use the Socket API to connect as a TCP client to aardmud.org on port 4000
 
