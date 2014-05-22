@@ -15,7 +15,7 @@ Each Chrome API might depend on another Chrome API or a core Apache Cordova plug
 
 ## Sample Overview
 
-The Telerik AppBuilder team has modified the existing Chrome telnet mobile sample to make it compatible with Telerik AppBuilder. You can find the source Chrome telnet mobile sample <a href="https://github.com/jordanilchev/samples-chrome-telnet/tree/master/samples-chrome-telnet" target="_blank">here</a>. 
+The Telerik AppBuilder team has modified the existing Chrome telnet mobile sample to make it compatible with Telerik AppBuilder. You can find the source Chrome telnet mobile sample <a href="https://github.com/jordanilchev/samples-chrome-telnet/tree/master/samples-chrome-telnet" target="_blank">here</a>. This sample demonstrates how to use the Socket API to connect as a TCP client to aardmud.org on port 4000
 
 The sample is initialized as a Chrome app. For more information about the development of Chrome apps, including the app container, click <a href="https://developer.chrome.com/apps/first_app" target="_blank">here</a>. 
 
