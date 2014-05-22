@@ -80,4 +80,4 @@ With Telerik AppBuilder, you can deploy apps on device wirelessly or via cable c
 
 ## License
 
-[LICENSE](LICENSE.md)
+[License](LICENSE.md)
