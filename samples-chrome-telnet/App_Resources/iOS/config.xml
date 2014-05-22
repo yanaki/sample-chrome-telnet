@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget>
+    <preference name="loglevel" value="DEBUG" />
+    <name>Telnet Client Sample</name>
+
+    <preference name="KeyboardShrinksView" value="true" />
+    <preference name="StatusBarOverlaysWebView" value="false" />
+    <preference name="StatusBarBackgroundColor" value="#000000" />
+    <preference name="iosPersistentFileLocation" value="Library" />
+    <preference name="AndroidPersistentFileLocation" value="Internal" />
+    <content src="plugins/org.chromium.bootstrap/chromeapp.html" />
+</widget>
