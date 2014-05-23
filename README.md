@@ -3,6 +3,8 @@ samples-chrome-telnet
 
 This sample shows how to develop a telnet hybrid mobile app using Google Chrome APIs in Telerik AppBuilder. You can clone this sample in Telerik AppBuilder, explore and modify the code, and build and run it on Android or iOS devices.
 
+This sample lets you connect as a TCP client to aardmud.org on port 4000.
+
 ## Telerik AppBuilder and Chrome APIs
 
 Google provides an Apache Cordova-based toolchain that lets developers wrap a Chrome App in a native container to make it available for Android and iOS devices. For a list of the Chrome Apps APIs that are currently supported for mobile development, click <a href="https://github.com/MobileChromeApps/mobile-chrome-apps/blob/master/docs/APIStatus.md" target="_blank">here</a>. 
@@ -13,7 +15,7 @@ Each Chrome API might depend on another Chrome API or a core Apache Cordova plug
 
 ## Sample Overview
 
-The Telerik AppBuilder team has modified the existing Chrome telnet mobile sample to make it compatible with Telerik AppBuilder. You can find the source Chrome telnet mobile sample <a href="https://github.com/Icenium/samples-chrome-telnet/tree/master/samples-chrome-telnet" target="_blank">here</a>. This sample shows how to use the socket API to connect as a TCP client to aardmud.org on port 4000.
+The Telerik AppBuilder team has modified the existing Chrome telnet mobile sample to make it compatible with Telerik AppBuilder. You can find the source Chrome telnet mobile sample <a href="https://github.com/Icenium/samples-chrome-telnet/tree/master/samples-chrome-telnet" target="_blank">here</a>. This sample lets you connect as a TCP client to aardmud.org on port 4000.
 
 The sample is initialized as a Chrome app. For more information about the development of Chrome apps, including the app container, click <a href="https://developer.chrome.com/apps/first_app" target="_blank">here</a>. 
 
